@@ -12,7 +12,4 @@ l7 = list(range(3, 7))  # [3, 4, 5, 6]
 
 print(l6, l7, sep='\n')
 
-for i in range(1, 10):
-    for j in range(1, 10):
-        print(f'{i} * {j} = {i * j}', end=', ')
-    print(sep='')
+
