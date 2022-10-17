@@ -1,7 +1,7 @@
 from random import randrange
 
 rand_num = randrange(0, 10, 2)
-print(fr'Введите число, {rand_num}')
+print(f'Введите число, {rand_num}')
 user_num = int(input())
 
 while user_num != rand_num:
