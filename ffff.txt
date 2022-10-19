@@ -1,0 +1,98 @@
+0 
+7 курсов, займут от 6 до 12 месяцев 
+/t/backend-developer/ 
+********* 
+
+
+0 
+4 курса, займут от 3 до 7 месяцев 
+/t/chat-bot-developer/ 
+********* 
+
+
+Основы Python 
+8
+        уроков,
+          115 заданий 
+/modules/meeting-python/ 
+********* 
+
+
+Вёрстка для питониста 
+5
+        уроков,
+          85 заданий 
+/modules/website-layout-for-pydev/ 
+********* 
+
+
+API веб-сервисов 
+6
+        уроков,
+          87 заданий 
+/modules/web-api/ 
+********* 
+
+
+Продвинутая вёрстка в Django 
+4
+        урока,
+          77 заданий 
+/modules/django-layout/ 
+********* 
+
+
+Командная строка 
+5
+        уроков,
+          41 задание 
+/modules/mac-linux-command-line/ 
+********* 
+
+
+Git и GitHub 
+5
+        уроков,
+          49 заданий 
+/modules/github_desktop/ 
+********* 
+
+
+Чат-боты на Python 
+7
+        уроков,
+          105 заданий 
+/modules/chat-bots/ 
+********* 
+
+
+Асинхронный Python 
+9
+        уроков,
+          144 задания 
+/modules/async-python/ 
+********* 
+
+
+Знакомство с Django: ORM 
+6
+        уроков,
+          117 заданий 
+/modules/django-orm/ 
+********* 
+
+
+Django 
+5
+        уроков,
+          104 задания 
+/modules/django/ 
+********* 
+
+
+Геоданные в QGIS 
+в разработке 
+/modules/gis/ 
+********* 
+
+
