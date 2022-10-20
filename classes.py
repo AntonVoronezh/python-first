@@ -23,3 +23,10 @@ class Person:
     @age.setter  # сеттер декоратор
     def age(self, val):
         self._age = val
+
+
+class Employee(Person):
+    company = 'yandex'
+
+    def more_info(self):
+        print(f'Name: {self.name} + Age: {self._age} + company: {self.company}')
