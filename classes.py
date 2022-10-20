@@ -26,7 +26,17 @@ class Person:
 
 
 class Employee(Person):
-    company = 'yandex'
+    def __init__(self, name, company):
+        super().__init__(name)
+        self.company = company
+
+    def print_info(self):
+        super().print_info()
+        print(f'11111111111111111111')
 
     def more_info(self):
         print(f'Name: {self.name} + Age: {self._age} + company: {self.company}')
+
+    def __str__(self):
+        # return f'name:::: {self.name}'
+        return self.__class__.__name__
