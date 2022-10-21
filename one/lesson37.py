@@ -1,4 +1,4 @@
-from classes import Person
+from one.classes import Person
 # import classes
 
 pers1 = Person('ssss')

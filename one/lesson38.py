@@ -1,4 +1,4 @@
-from classes import Person
+from one.classes import Person
 
 a = Person('Fnd4ny5sr')
 

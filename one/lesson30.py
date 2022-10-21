@@ -2,7 +2,7 @@
 
 import os
 import random as r
-from random import randint, shuffle
+from random import randint
 # from random import *
 import libs
 

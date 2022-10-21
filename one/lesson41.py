@@ -1,4 +1,4 @@
-from classes import Person, Employee
+from one.classes import Person, Employee
 
 a = Person('Fnd4ny5sr')
 b = Employee('ghkfy', 'rt77777777')
